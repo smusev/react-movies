@@ -1,3 +1,7 @@
+You can run this live: https://smusev.github.io/react-movies/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
