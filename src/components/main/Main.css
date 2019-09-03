@@ -1,0 +1,42 @@
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  width: 70%;
+}
+
+.movie-list-item {
+  display: flex;
+  width: 100%;
+  border: 1px solid #E8E8E8;
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.movie-list-item li {
+  font-size: 11px;
+  color: #666666;
+}
+
+.movie-list-item h5 {
+  font-size: 11px;
+  font-weight: bold;
+  display: inline;
+}
+
+
+.movie-poster {
+  width: 200px;
+  float: left;
+  padding: 2px 20px 0 5px;
+}
+
+.movie-title {
+  margin: 0px;
+  text-align: left;
+}
+
+.movie-info {
+}
