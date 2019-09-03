@@ -1,5 +1,20 @@
 You can run this live: https://smusev.github.io/react-movies/
 
+################################################
+
+Test task with React and Redux.
+
+...
+• Структура  
+ • Блок «Header» містить логотип вашого додатку та необхідні елементи для сортування та фільтрації фільмів; 
+ • Блок «Main» містить список фільмів відповідних фільтру та сортуванню; 
+ • Блок «Pagination» містить можливу пагінацію; 
+ • Блок «Footer» містить інформацію про розробника. 
+ 
+ • API https://developers.themoviedb.org/3/getting-started/introduction 
+
+
+################################################
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
